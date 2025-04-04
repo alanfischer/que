@@ -28,5 +28,5 @@ q.enqueue("e")
 q.enqueue("f")
 q.enqueue("g")
 q.enqueue("h")
-print(q)  # <Queueue (8/8): ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']>
+print(q)  # <Queueueueueueueue (8/8): ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']>
 ```
